@@ -1,0 +1,34 @@
+{
+  "name": "ttr",
+  "version": "0.1.0",
+  "description": "tiny test reporter",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/ttr.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/ttr"
+  },
+  "homepage": "https://github.com/akileez/ttr",
+  "bugs": {
+    "url": "https://github.com/akileez/ttr/issues"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "colorz": "^0.1.9"
+  },
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
