@@ -6,7 +6,7 @@
 
 ## Installation
 ```bash
-$ npm install akileez\ttr
+$ npm install ttr
 ```
 
 ## Usage
